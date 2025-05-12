@@ -1,1 +1,1 @@
-||accounts.google.com/gsi/iframe*
+accounts.google.com/gsi/*
